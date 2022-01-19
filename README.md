@@ -6,6 +6,8 @@
 
 The best way to review my repo is to go through my oldest projects and see my improvement in development with each successive project!
 
+Note: Most of my early projects are from the online, open sourced bootcamp - TheOdinProject.com ! 
+Thank you Odin Community!
 
 <!---
 jasdipsingh23/jasdipsingh23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
