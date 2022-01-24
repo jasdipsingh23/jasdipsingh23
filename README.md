@@ -1,5 +1,5 @@
 - 👋 What's up, World! I’m @jasdipsingh23
-- 👀 I’m interested in everything about programming!
+- 👀 I’m interested in everything about CSE!
 - 🌱 I’m currently learning about myself and how I can be the best me.
 - 💞️ I’m looking to collaborate on interview prep guidance.
 - 📫 How to reach me: LinkedIn.com/in/jasdipsingh23 
